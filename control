@@ -1,0 +1,9 @@
+Package: com.hyangu.visionpropopup
+Name: Vision Pro Popup
+Depends: mobilesubstrate
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description: Vision Pro 风格的弹窗演示
+Maintainer: Hyangu
+Author: Hyangu
+Section: Tweaks
